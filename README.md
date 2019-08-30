@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Joshua Harman | jeh5747 | <https://jeh5747.github.io/Stat184Assignment1/> |
 
 <br>
 
